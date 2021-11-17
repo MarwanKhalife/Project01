@@ -1,0 +1,10 @@
+body {
+    background-color: darkslateblue;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    background-color: midnightblue;
+    color: orange;
+}
